@@ -1,0 +1,6 @@
+	<!-- HTML QUOTATIONS-->
+			<p style="text-align:center;"> <q> WELCOME </q> </p>
+			<p style="text-align:center;"> <blockquote> WELCOME </blockquote> </p>
+			<p style="text-align:center;"> <abbr title="Hyper Text Markup Language";> html s</abbr> </p>
+			<address>025 QUEZON STREET TONDO MANILA </address>
+			<bdo dir="rtl"> Flower </bdo>

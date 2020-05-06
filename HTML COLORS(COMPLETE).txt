@@ -1,0 +1,10 @@
+<!-- HTML COLLORS -->
+			<p style="color:rgb(0,0,255);"> WELCOME </p>
+			<p style="color:rgb(0,255,0);"> WELCOME </p>
+			<p style="color:rgb(255,0,0);"> WELCOME </p>
+			<p style="color:rgb(255,255,255);"> WELCOME </p>
+		<!-- RGBA TRANSPARENCY -->
+			<p style="color:rgba(255,0,0,0.8);"> WELCOME </p>
+		<!-- HUE SATURATION LIGHTNESS (HSL)-->
+			<P STYLE="color:hsl(120,10%,50%);">WELCOME </p>
+			<p style="color:hsla(240,50%,50%,0.5);"> WELCOME </p>
