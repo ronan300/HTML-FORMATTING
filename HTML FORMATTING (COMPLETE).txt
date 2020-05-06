@@ -1,0 +1,13 @@
+<!-- HTML FORMATTING-->
+			<p style="font-size:10px;text-align:center;color:red;"> WELCOME</p>
+			<p style="text-align:center;"> <i> ex.WELCOME </i> (italic)	 </p>
+			<p style="text-align:center;"> <b> ex.WELCOME </i> (BOLD) </p>
+			<p style="text-align:center;"> <em> ex.WELCOME </em> (enumeration) </p>
+			<p style="text-align:center;"> <strong> ex.WELCOME <strong> (solid/strong) </p>
+			<p style="text-align:center;"> <del>  ex.WELCOME </del> (DELETED TEXT)  </p>
+			<p style="text-align:center;"> <ins>ex.WELCOME </ins> (INSERTED TEXT)  </p>
+			<p style="text-align:center;"> <mark> ex.WELCOME  </mark> (MARKED TEXT)  </p>
+			<p style="text-align:center;"> (SUBSCIPT TEXT)ex. H<sub>2</sub>0 </p>
+			<p style="text-align:center;"> (SUPERSCRIPT TEXT) ex. x<sup>2</sup> (easily math explained:)  </p>
+			<p style="text-align:center;"> <small> ex.WELCOME </small> </p>
+	
